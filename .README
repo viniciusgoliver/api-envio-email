@@ -1,0 +1,10 @@
+### ** API de Envio de Email via Contato **
+
+Esta API foi desenvolvida para auxiliar no envio de email via Contato formulário HTML. Abaixo segue as descrições da API
+
+- Nodejs + Nodemon;
+- Nodemailer
+
+Para subir a API é necessário baixar as dependencias e editar o arquivo de configs para acesso SMTP
+
+~$ yarn
